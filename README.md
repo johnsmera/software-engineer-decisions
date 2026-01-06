@@ -133,3 +133,15 @@ The intent is to share how to think about stabilizing systems, not to prescribe 
 This case reflects my approach to software engineering:
 building systems that scale in complexity without becoming ungovernable.
 
+## Business Impact
+
+Beyond technical stabilization, the intervention had a measurable business effect.
+
+Based on internal estimates, preventing a post-launch failure avoided a potential financial loss of approximately USD 90,000–100,000 (≈ BRL 500,000), considering:
+- System downtime
+- Emergency rework
+- Contractual penalties
+- Loss of team productivity
+
+Additionally, the stabilization effort allowed the company to retain the full development team, avoiding turnover during a critical delivery phase.
+
